@@ -3,29 +3,44 @@ DO NOT ALTER THE EXISTING HTML TO DO THIS.  WRITE ONLY CSS! */
 
 /* Give the <body> element a background of #bdc3c7*/
  body { 
-    background-color: #bdc37;
+    background-color: #bdc3c7;
  }
 
 /* Make the <h1> element #9b59b6*/
-
+ h1 {
+    color: #9b59b6;
+ }
 
 /* Make all <h2> elements orange */
-
+ h2 {
+    color: orange;
+    border: 3px red;
+ }
 
 /* Make all <li> elements blue(pick your own hexadecimal blue)*/ 
-
+ li{
+    color: #00ffff;
+    border: 3px red;
+ }
 
 /*Change the background on every paragraph to be yellow*/
-
+ p {
+    color: yellow;
+    border: 3px red;
+ }
 
 /*Make all inputs have a 3px red border*/
 
 
 /* Give everything with the class 'hello' a white background*/
-
+ .hello{
+    background-color: white;
+}
 
 /* Give the element with id 'special' a 2px solid blue border(pick your own rgb blue)*/
-
+ #special{
+    border: 2px rgb(9, 9, 212) solid;
+}
 
 /*Make all the <p>'s that are nested inside of divs 25px font(font-size: 25px)*/
 
