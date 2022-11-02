@@ -1,4 +1,11 @@
 th {
     font:Roboto;
-    font-size: x-large;
+}
+
+td {
+    border-width: 1px;
+}
+
+tr {
+    border-width: 1px;
 }
