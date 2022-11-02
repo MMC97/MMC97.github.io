@@ -1,3 +1,7 @@
+table {
+    margin: 100 100;
+}
+
 th {
     font-family:'Roboto', sans-serif;
     font-size: 100px;
@@ -11,10 +15,55 @@ td {
 .TOP-LEFT{
     border-right: 1px solid black;
     border-bottom: 1px solid black;
+    width: 100px;
+    height: 100px;
+
 }
-
-tr {
-    border-width: 1px;
+.MID-LEFT{
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    width: 100px;
+    height: 100px;
 }
-
-
+.BOT-LEFT{
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    width: 100px;
+    height: 100px; 
+}
+.TOP-MID{
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    width: 100px;
+    height: 100px;
+}
+.MID-MID{
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    width: 100px;
+    height: 100px; 
+}
+.BOT-MID{
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    width: 100px;
+    height: 100px;  
+}
+.TOP-RIGHT{
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    width: 100px;
+    height: 100px;  
+}
+.MID-RIGHT{
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    width: 100px;
+    height: 100px; 
+}
+.BOT-RIGHT{
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    width: 100px;
+    height: 100px; 
+}
