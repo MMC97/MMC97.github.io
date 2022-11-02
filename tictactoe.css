@@ -1,5 +1,6 @@
 th {
-    font:Roboto;
+    font-family:'Roboto', sans-serif;
+    font-size: 100px;
 }
 
 td {
