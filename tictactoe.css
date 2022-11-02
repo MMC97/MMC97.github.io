@@ -1,10 +1,12 @@
 table {
-    margin: 100 100;
+    margin: auto;
+
 }
 
-th {
+h1 {
     font-family:'Roboto', sans-serif;
     font-size: 100px;
+    text-align: center;
 }
 
 td {
@@ -26,8 +28,8 @@ td {
     height: 100px;
 }
 .BOT-LEFT{
-    border-right: 1px solid black;
     border-bottom: 1px solid black;
+
     width: 100px;
     height: 100px; 
 }
@@ -44,24 +46,21 @@ td {
     height: 100px; 
 }
 .BOT-MID{
-    border-right: 1px solid black;
     border-bottom: 1px solid black;
     width: 100px;
     height: 100px;  
 }
 .TOP-RIGHT{
     border-right: 1px solid black;
-    border-bottom: 1px solid black;
     width: 100px;
     height: 100px;  
 }
 .MID-RIGHT{
     border-right: 1px solid black;
-    border-bottom: 1px solid black;
     width: 100px;
     height: 100px; 
 }
-.BOT-RIGHT{
+/*.BOT-RIGHT{
     border-right: 1px solid black;
     border-bottom: 1px solid black;
     width: 100px;
