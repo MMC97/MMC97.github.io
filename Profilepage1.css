@@ -30,7 +30,7 @@
 }
 
 a {
-    font-family: "Montserrat", sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 18px;
     text-transform: uppercase;
 }
@@ -41,4 +41,21 @@ a {
 
     height: 75px;
     background-color: #7B68EE;
+}
+
+#images1 {
+    border-bottom: 20px solid black;
+    /*height: min-content;*/
+    border-right: 20px solid black;
+    /*box-shadow: 10px 10px black, -0.5em;*/
+    /*box-shadow: 10px 10px black, -0.5em 0 0.4em #00FA9A;*/
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+}
+
+h1 {
+    font-family: 'Limelight';
 }
